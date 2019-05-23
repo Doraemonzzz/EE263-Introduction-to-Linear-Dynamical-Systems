@@ -588,7 +588,9 @@ $$
 
 
 
-#### 补充题
+### 补充题
+
+#### 1
 
 (a)$\forall \alpha,\beta ,\alpha+\beta =1$：
 $$
