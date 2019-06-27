@@ -45,3 +45,4 @@ def f(G, gamma, alpha, sigma, p, N):
         plt.show()
 
 f(G, gamma, alpha, sigma, p, N)
+
